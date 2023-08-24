@@ -1,4 +1,4 @@
-### Hi there 👋
+I'm Pat a 2nd year BSIT student aspiring CyberSecurity specialist. I'm currenty learning Python and Networking.
 
 <!--
 **patzylifts/patzylifts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
