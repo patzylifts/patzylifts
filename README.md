@@ -1,4 +1,4 @@
-I'm Pat a 2nd year BSIT student aspiring CyberSecurity specialist. I'm currenty learning Python and Networking.
+I'm Pat a 2nd year BSIT student aspiring CyberSecurity specialist. 
 
 ![Z3tI](https://github.com/patzylifts/patzylifts/assets/79254268/a02bf013-bc56-4aab-af25-72b429b5d4c9)
 
