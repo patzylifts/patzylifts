@@ -1,5 +1,6 @@
 I'm Pat a 2nd year BSIT student aspiring CyberSecurity specialist. I'm currenty learning Python and Networking.
 
+https://github.com/patzylifts/patzylifts/assets/79254268/bbcd366b-d1af-47ff-afd5-a97ce6dd9ebd
 <!--
 **patzylifts/patzylifts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
