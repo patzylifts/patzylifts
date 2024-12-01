@@ -11,6 +11,14 @@
 
 
 ![Z3tI](https://github.com/patzylifts/patzylifts/assets/79254268/a02bf013-bc56-4aab-af25-72b429b5d4c9) 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=patzylifts&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=patzylifts&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=patzylifts&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **patzylifts/patzylifts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
