@@ -14,7 +14,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://komarev.com/ghpvc/?username=patzylifts&color=ff69b4)
 ![](https://github-readme-stats.vercel.app/api?username=patzylifts&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=patzylifts&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=patzylifts&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
